@@ -2,7 +2,7 @@
 	{
 		"title": "Towards Qualitative Spatiotemporal Representations for Episodic Memory",
 		"authors": "Will Hancock, Kenneth D. Forbus, and Thomas R. Hinrichs",
-		"conference": "Advances in Cognitive Systems",
+		"venue": "Advances in Cognitive Systems",
 		"year": "2020",
 		"location": "Santiago de Compostela, Spain",
 		"type": "workshop"
@@ -10,7 +10,7 @@
 	{
 		"title": "Optimizing Strategy Game Planning Via Combining Analogical Learning with Function Learning",
 		"authors": "Will Hancock, Kenneth D. Forbus, Thomas R. Hinrichs",
-		"conference": "Advances in Cognitive Systems",
+		"venue": "Advances in Cognitive Systems",
 		"year": "2018",
 		"location": "Stanford, CA",
 		"type": "conference"
@@ -18,7 +18,7 @@
 	{
 		"title": "Event representations for automated story generation with deep neural nets",
 		"authors": "Lara J. Martin, Prithviraj Ammanabrolu, Xinyu Wang, William Hancock, Shruti Singh, Brent Harrison, Mark O Riedl",
-		"conference": "Thirty-Second AAAI Conference on Artificial Intelligence",
+		"venue": "Thirty-Second AAAI Conference on Artificial Intelligence",
 		"year": "2018",
 		"location": "New Orleans, LA",
 		"type": "conference"
@@ -26,7 +26,7 @@
 	{
 		"title": "Towards Deception Detection in a Language-driven Game",
 		"authors": "Will Hancock, Michael Floyd, Matt Molineaux, David Aha",
-		"conference": "Proceedings of the Thirtieth International Florida AI Research Society Conference",
+		"venue": "Proceedings of the Thirtieth International Florida AI Research Society Conference",
 		"year": "2017",
 		"location": "Marco Island, FL",
 		"type": "conference"
@@ -34,7 +34,7 @@
 	{
 		"title": "Does the Solution Based Design Process Result in More Multifunctional Designs?",
 		"authors": "Ashok Goel, Will Hancock, Keith Frazer and Christian Tuchez",
-		"conference": "Proceedings of the 2016 International Conference on Design Creativity",
+		"venue": "Proceedings of the 2016 International Conference on Design Creativity",
 		"location": "Atlanta, GA",
 		"year": "2016",
 		"link": "/content/papers/4th_ICDC_Final.pdf",
@@ -43,7 +43,7 @@
 	{
 		"title": "Is Biologically Inspired Design Domain Independent?",
 		"authors": "Ashok Goel, Christian Tuchez, Will Hancock and Keith Frazer",
-		"conference": "Design Computing and Cognition'16: Proceedings of the Sixth International Conference on Design Computing and Cognition",
+		"venue": "Design Computing and Cognition'16: Proceedings of the Sixth International Conference on Design Computing and Cognition",
 		"location": "Evanston, IL",
 		"year": "2016",
 		"link": "/content/papers/DSL-DCC-Final.pdf",
@@ -52,7 +52,7 @@
 	{
 		"title": "Using Watson for Constructing Cognitive Assistants",
 		"authors": "Ashok Goel, Tory Anderson, Jordan Belknap, Brian Creeden, Will Hancock, Mithun Kumble, Shanu Salunke, Bradley Sheneman, Abhinaya Shetty and Bryan Wiltgen",
-		"conference": "Proceedings of the Fourth Annual Conference on Advances in Cognitive Systems",
+		"venue": "Proceedings of the Fourth Annual Conference on Advances in Cognitive Systems",
 		"location": "Evanston, IL",
 		"year": "2016",
 		"link": "/content/papers/Goel_et.al-ACS-2016.pdf",

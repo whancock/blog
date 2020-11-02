@@ -61,8 +61,14 @@
 
                 $http.get('cv.json').then(function(response) {
                     // $scope = angular.merge($scope, response.data);
-                    console.log(response.data)
+                    // console.log(response.data)
                     $scope.will = response.data
+                });
+
+                $http.get('publications.json').then(function(response) {
+                    // $scope = angular.merge($scope, response.data);
+                    console.log(response.data)
+                    $scope.publications = response.data
                 });
 
             });
@@ -117,6 +123,27 @@
 
     </div>
 </div>
+
+
+<div class="row">
+
+    <div class="col-xs-2 left-label">Publications</div>
+
+    <div class="col-xs-10">
+
+        <div ng-repeat="pub in publications">
+
+            <div>
+                <span>{{pub.authors}}</span>
+                <span>{{pub.title}}</span>
+                <span>{{pub.venue}}</span>
+            </div>
+            
+        </div>
+
+    </div>
+</div>
+
 
 <div class="row">
 
