@@ -1,0 +1,186 @@
+{
+	"name": "Will Hancock",
+	"phone": "240-466-6020",
+	"email": "will@willhancock.io",
+	"city": "Chicago",
+	"state": "IL",
+	"zip": "60626",
+
+	"edu": {
+		"label": "Education",
+		"entry": [
+			{
+				"name": "Northwestern University",
+				"location": "Evanston, Illinois",
+				"level": [{
+					"label": "PhD in Computer Science",
+					"dateStart": "Sept 2017",
+					"dateEnd": "present"
+				}]
+			},
+			{
+				"name": "Georgia Institute of Technology",
+				"location": "Atlanta, Georgia",
+				"level": [
+					{
+						"label": "Master of Science in Computer Science",
+						"dateStart": "Aug 2014",
+						"dateEnd": "Dec 2016"
+					},
+					{
+						"label": "Bachelor of Science in Computer Science",
+						"dateStart": "Aug 2006",
+						"dateEnd": "Dec 2011"
+					}
+				]
+			}]
+	},
+
+	"interests": {
+		"label": "Interests",
+		"entry": [
+			"NLU",
+			"Commonsense Knowledge Learning",
+			"Analogical Reasoning"
+		]
+	},
+
+	"experience": {
+		"label": "Experience",
+		"entry": [
+			{
+				"name": "Naval Research Lab",
+				"location": "Washington DC",
+				"dateStart": "summer 2016",
+				"position": "NREIP Intern",
+				"roles": [
+					"Researched deceit detection by analyzing player intentions within the game of werewolf"
+				]
+			},
+			{
+				"name": "Salesfusion",
+				"location": "Atlanta, GA",
+				"dateStart": "June 2015",
+				"dateEnd": "May 2016",
+				"position": "Frontend Consultant",
+				"roles": [
+					"Oversaw frontend migration to AngularJS from .NET",
+					"Devoloped custom Angular build process/ecosystem",
+					"Strived for minimal and maintainable lib dependencies",
+					"Worked closely with UX lead to develop prototype app using material design"
+				]
+			},
+			{
+				"name": "Design & Intelligence Lab",
+				"location": "Georgia Tech",
+				"dateStart": "Sept 2014",
+				"dateEnd": "present",
+				"roles": [
+					"Researching theory of invention by giving analogical reasoning information processing account of biologically inspired design prototypes",
+					"Developing Design Study Library, a research tool to teach biologically inspired design processes to non-experts"
+				]
+			},
+			{
+				"name": "Entertainment Intelligence Lab",
+				"location": "Georgia Tech",
+				"dateStart": "Jan 2015",
+				"dateEnd": "present",
+				"roles": [
+					"Researching learning narrative models using deep learning",
+					"Implemented narrative improv system using DBNs to allow human to interact with AI story agents"
+				]
+			},
+			{
+				"name": "Piksel",
+				"location": "Atlanta, GA",
+				"position": "Frontend Team Lead",
+				"dateStart": "Feb 2012",
+				"dateEnd": "May 2015",
+				"roles": [
+					"Planned and re-architected platform using AngularJS/RESTful backend",
+					"Deployed I18N from scratch for entire CMS, using self written Python toolkit",
+					"Built custom client facing API docs using PHP reflection",
+					"Designed and deployed PHPUnit suite from scratch"
+				]
+			},
+			{
+				"name": "Javlin, Inc.",
+				"location": "Prague, Czech Republic",
+				"position": "Software Engineer",
+				"dateStart": "spring 2011",
+				"roles": [
+					"Developed ETL software using Eclipse/Java SWT"
+				]
+			},
+			{
+				"name": "KuaiLeTao",
+				"location": "Shanghai, China",
+				"position": "Founder, CTO",
+				"dateStart": "fall 2009",
+				"dateEnd": "fall 2010",
+				"roles": [
+					"Utilized PHP/MYSQL/JS to design high performance AJAX game",
+					"Designed database sufficient to handle extensive polling",
+					"Localized language into simplified Mandarin"
+				]
+			},
+			{
+				"name": "Playmotion, Inc.",
+				"location": "Atlanta, Georgia",
+				"position": "Software Engineer",
+				"dateStart": "Aug 2008",
+				"dateEnd": "May 2009",
+				"roles": [
+					"Designed vision algorithms in C++ using OpenCV for augmented reality app",
+					"Worked with Panda3D/Python/physics engine to create platform games"
+				]
+			}
+		]
+	},
+
+	"skills": {
+		"label": "Skills",
+		"entry": [
+			"Angular/JS,  Python,  Node,  PHP,  Java,  SQL,  C/OpenCV",
+			"Unix,  Apache,  I18N,  Photoshop/GIMP,  GIT,  SVN,  SASS/CSS,  MVC,  REST",
+			"Languages:  Mandarin, French (Beginner)"
+		]
+	},
+
+	"activities": {
+		"label": "Activities",
+		"entry": [
+			{
+				"name": "TA for KBAI (CS7637)",
+				"location": "Georgia Tech",
+				"position": "Teacher's Assistant",
+				"dateStart": "fall 2016"
+			}, {
+				"name": "TA for Computer Vision (CS4495)",
+				"location": "Georgia Tech",
+				"position": "Teacher's Assistant",
+				"dateStart": "fall 2014, spring 2015",
+				"dateEnd": ""
+			}, {
+				"name": "SOPO Bicycle Co-op",
+				"location": "Atlanta, GA",
+				"position": "Manager",
+				"dateStart": "Aug 2012",
+				"dateEnd": "present",
+				"roles": [
+					"Volunteer four hours/wk providing Atlanta with affordable bike maintenance"
+				]
+			}
+		]
+	},
+
+	"awards": {
+		"label": "Awards",
+		"entry": [
+			"2017 NSF EAPSI Fellowship recipient",
+			"Georgia Tech CS7632 Game AI - Best pathfinder assignment (class of ~100)", 
+			"Eagle Scout, Boy Scouts of America"
+		]
+	}
+
+}
