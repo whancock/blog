@@ -9,15 +9,15 @@
 	},
 	{
 		"title": "Optimizing Strategy Game Planning Via Combining Analogical Learning with Function Learning",
-		"authors": "Will Hancock, Kenneth D. Forbus, Thomas R. Hinrichs",
+		"authors": "Will Hancock, Kenneth D. Forbus, and Thomas R. Hinrichs",
 		"venue": "Advances in Cognitive Systems",
 		"year": "2018",
 		"location": "Stanford, CA",
 		"type": "conference"
 	},
 	{
-		"title": "Event representations for automated story generation with deep neural nets",
-		"authors": "Lara J. Martin, Prithviraj Ammanabrolu, Xinyu Wang, William Hancock, Shruti Singh, Brent Harrison, Mark O Riedl",
+		"title": "Event Representations for Automated Story Generation With Deep Neural Nets",
+		"authors": "Lara J. Martin, Prithviraj Ammanabrolu, Xinyu Wang, William Hancock, Shruti Singh, Brent Harrison, and Mark O Riedl",
 		"venue": "Thirty-Second AAAI Conference on Artificial Intelligence",
 		"year": "2018",
 		"location": "New Orleans, LA",
@@ -25,7 +25,7 @@
 	},
 	{
 		"title": "Towards Deception Detection in a Language-driven Game",
-		"authors": "Will Hancock, Michael Floyd, Matt Molineaux, David Aha",
+		"authors": "Will Hancock, Michael Floyd, Matt Molineaux, and David Aha",
 		"venue": "Proceedings of the Thirtieth International Florida AI Research Society Conference",
 		"year": "2017",
 		"location": "Marco Island, FL",
@@ -33,7 +33,7 @@
 	},
 	{
 		"title": "Does the Solution Based Design Process Result in More Multifunctional Designs?",
-		"authors": "Ashok Goel, Will Hancock, Keith Frazer and Christian Tuchez",
+		"authors": "Ashok Goel, Will Hancock, Keith Frazer, and Christian Tuchez",
 		"venue": "Proceedings of the 2016 International Conference on Design Creativity",
 		"location": "Atlanta, GA",
 		"year": "2016",
@@ -42,7 +42,7 @@
 	},
 	{
 		"title": "Is Biologically Inspired Design Domain Independent?",
-		"authors": "Ashok Goel, Christian Tuchez, Will Hancock and Keith Frazer",
+		"authors": "Ashok Goel, Christian Tuchez, Will Hancock, and Keith Frazer",
 		"venue": "Design Computing and Cognition'16: Proceedings of the Sixth International Conference on Design Computing and Cognition",
 		"location": "Evanston, IL",
 		"year": "2016",
@@ -51,7 +51,7 @@
 	},
 	{
 		"title": "Using Watson for Constructing Cognitive Assistants",
-		"authors": "Ashok Goel, Tory Anderson, Jordan Belknap, Brian Creeden, Will Hancock, Mithun Kumble, Shanu Salunke, Bradley Sheneman, Abhinaya Shetty and Bryan Wiltgen",
+		"authors": "Ashok Goel, Tory Anderson, Jordan Belknap, Brian Creeden, Will Hancock, Mithun Kumble, Shanu Salunke, Bradley Sheneman, Abhinaya Shetty, and Bryan Wiltgen",
 		"venue": "Proceedings of the Fourth Annual Conference on Advances in Cognitive Systems",
 		"location": "Evanston, IL",
 		"year": "2016",
