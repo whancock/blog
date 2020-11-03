@@ -13,7 +13,7 @@
 				"name": "Northwestern University",
 				"location": "Evanston, Illinois",
 				"level": [{
-					"label": "PhD in Computer Science",
+					"label": "PhD Candidate in Computer Science",
 					"dateStart": "Sept 2017",
 					"dateEnd": "present"
 				}]
@@ -48,6 +48,15 @@
 	"experience": {
 		"label": "Experience",
 		"entry": [
+			{
+				"name": "Toyota Technological Institute",
+				"location": "Nagoya, Japan",
+				"dateStart": "summer 2017",
+				"position": "NSF EAPSI Research Fellow",
+				"roles": [
+					"Explored LSTM NN model architectures for commonsense story understanding"
+				]
+			},
 			{
 				"name": "Naval Research Lab",
 				"location": "Washington DC",
