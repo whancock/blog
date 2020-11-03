@@ -119,8 +119,7 @@
         <div class="subsection" ng-repeat="school in will.edu.entry">
 
             <div>
-                <span class="title">{{school.name}}</span>
-                <span>, </span>
+                <span class="title">{{school.name}}</span><span>, </span>
                 <span>{{school.location}}</span>
             </div>
 
@@ -150,10 +149,7 @@
                 <div ng-controller="authorController">
                     <span ng-repeat="author in authorsarr">
                         <span ng-show="$last">and</span>
-                        <span ng-class="{bold: author == 'Will Hancock'}">{{author}}
-                            <span ng-show="!$last">,</span>
-                        </span>
-                        
+                        <span ng-class="{bold: author == 'Will Hancock'}">{{author}}</span><span ng-show="!$last">,</span>
                     </span>
                 </div>
                 <div style="font-style: italic">{{pub.venue}}</div>
@@ -177,8 +173,7 @@
 
             <div>
                 <span>
-                    <span class="title">{{position.name}}</span>
-                    <span>, </span>
+                    <span class="title">{{position.name}}</span><span>, </span>
                     <span>{{position.location}}</span>
                 </span>
 
@@ -208,17 +203,16 @@
         <div ng-repeat="activity in will.activities.entry">
 
             <div>
-            <span>
-                <span class="title">{{activity.name}}</span>
-                <span>, </span>
-                <span>{{activity.location}}</span>
-            </span>
+                <span>
+                    <span class="title">{{activity.name}}</span><span>, </span>
+                    <span>{{activity.location}}</span>
+                </span>
 
-            <span class="date-right">
-                <span>{{activity.dateStart}}</span>
-                <span ng-if="activity.dateEnd"> - </span>
-                <span>{{activity.dateEnd}}</span>
-            </span>
+                <span class="date-right">
+                    <span>{{activity.dateStart}}</span>
+                    <span ng-if="activity.dateEnd"> - </span>
+                    <span>{{activity.dateEnd}}</span>
+                </span>
             </div>
 
             <ul>
